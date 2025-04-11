@@ -4,7 +4,7 @@ const summarizeBtn = document.getElementById("summarize");
 const promptInput = document.getElementById("prompt");
 const responseDiv = document.getElementById("response");
 
-const API_KEY = "AIzaSyAALfUjOspmSgKiHTv74zUB1-MJOaUhj68";
+const API_KEY = "";
 
 askBtn.addEventListener("click", async () => {
   const prompt = promptInput.value.trim();
