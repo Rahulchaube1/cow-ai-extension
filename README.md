@@ -29,6 +29,7 @@ Cow AI is an open-source Chrome extension that overlays an AI assistant (powered
 - Gemini AI API
 - Chrome Extension (Manifest v3)
 - Web Speech API (TTS + STT)
+- translate and summarized
 
 ## 📜 License
 
